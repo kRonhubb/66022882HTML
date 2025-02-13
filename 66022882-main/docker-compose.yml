@@ -4,6 +4,6 @@ services:
   nextjs-app:
     build: .
     ports:
-      - "12578:20000"
+      - "10000:20000"
     restart: always
 
